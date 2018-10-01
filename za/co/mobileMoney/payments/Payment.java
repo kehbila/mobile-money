@@ -1,5 +1,12 @@
 public class Payment{
-int paymentId;
+private int paymentId;
+
+private int paymentid;
+
+public static void main(String [] args){
+
+}
+
 
 
 }
